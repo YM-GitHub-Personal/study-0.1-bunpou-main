@@ -84,3 +84,5 @@ def charNameCheck(hikisuu):
 # 関数呼び出し
 charName = "あああ"
 charNameCheck(charName)
+
+# fixbranch_A でPUSH
