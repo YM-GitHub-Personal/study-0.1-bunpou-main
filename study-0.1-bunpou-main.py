@@ -89,3 +89,4 @@ charNameCheck(charName)
 # future_B でPUSH
 # future_C でPUSH
 # future_D でPUSH
+# reset 
