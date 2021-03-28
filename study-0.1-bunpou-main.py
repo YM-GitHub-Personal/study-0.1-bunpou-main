@@ -88,4 +88,3 @@ charNameCheck(charName)
 # fixbranch_A でPUSH
 # future_B でPUSH
 # future_C でPUSH
-# future_D でPUSH
