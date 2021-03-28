@@ -86,3 +86,4 @@ charName = "あああ"
 charNameCheck(charName)
 
 # fixbranch_A でPUSH
+# future_B でPUSH
