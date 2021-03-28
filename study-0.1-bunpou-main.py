@@ -90,3 +90,4 @@ charNameCheck(charName)
 # future_C でPUSH
 # future_D でPUSH
 # future_E でPUSH
+# feature-A 
